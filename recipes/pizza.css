@@ -14,3 +14,31 @@ text-align: center;
   margin-right: auto;
   width: 50%;
 }
+
+
+
+
+
+
+.list{
+color:  black;
+text-align: center;
+font-size: 24px;
+border-color: rgb(255, 123, 0);
+
+}
+
+.Steps{
+  color:  black;
+  text-align: center;
+  font-size: 24px;
+  border-color: rgb(255, 123, 0);
+  
+
+
+}
+
+#statement{
+font-size: 24px;
+
+}
